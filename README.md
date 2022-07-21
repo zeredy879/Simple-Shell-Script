@@ -1,5 +1,5 @@
 # Simple-Shell-Script
 A repository to store my shell scripts.
 
-## choose.sh
+## gdbchoose.sh
 Change gdb plugin simply.
