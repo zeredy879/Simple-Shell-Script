@@ -3,3 +3,4 @@ su - <<eof
 # here use your own password
 whoami
 eof
+whoami
